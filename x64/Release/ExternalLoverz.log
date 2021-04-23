@@ -1,0 +1,26 @@
+﻿  V2 Menu.cpp
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(153,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(196,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(205,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(461,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(462,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(463,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(517,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(543,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(543,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(690,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(690,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(700,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(700,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(770,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(827,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(891,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(891,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(913,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\defau\Desktop\Ψ\V2 Menu.cpp(457): warning C4715: 'GetAimKey': not all control paths return a value
+  All 377 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+D2DOverlay.lib(Source.obj) : warning LNK4099: PDB 'D2DOverlay.pdb' was not found with 'D2DOverlay.lib(Source.obj)' or at 'C:\Users\defau\Desktop\Ψ\x64\Release\D2DOverlay.pdb'; linking object as if no debug info
+  ExternalLoverz.vcxproj -> C:\Users\defau\Desktop\Ψ\x64\Release\Skill V2 (4-18-21).exe
